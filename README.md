@@ -50,7 +50,9 @@ El estudio de los exoplanetas (o planetas extrasolares) se convirtió rápidamen
 - Conceptos clave: Exoplanetas, ondas electromagnéticas, efecto Doppler.
 
 [^1]: El estudiante sacará los datos directamente de la fuente (fuente única).
+
 [^2]: Datos filtrados disponibles en formato Excel o CSV
+
 [^3]: El estudiante obtendrá los datos desde una base de datos. (Query form).
 
 
